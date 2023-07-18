@@ -19,7 +19,7 @@ __plugin_meta__ = PluginMetadata(
         "nonebot.adapters.onebot.v11",
     ],
     type="application",
-    homepage="https://github.com/canxin121/nonebot_plugin_pokesome",
+    homepage="https://github.com/canxin121/nonebot_plugin_pokesomeone",
 )
 
 poke_some = on_command("戳", aliases={"poke"})

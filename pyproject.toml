@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot-plugin-pokesomeone"
-version = "0.1.0"
+version = "0.1.1"
 description = "指定戳一戳"
 authors = ["canxin <1969730106@qq.com>"]
 readme = "README.md"
